@@ -10,8 +10,7 @@
 
 
 > credit: 
-<a href="https://hackernoon.com/lets-build-a-web-app-with-vue-chart-js-and-an-api-544eb81c4b44" target="_blank">Let’s Build a Web App with Vue, Chart.js and an API</a>
-
+<a href="https://hackernoon.com/lets-build-a-web-app-with-vue-chart-js-and-an-api-544eb81c4b44" target="_blank">Let’s Build a Web App with Vue, Chart.js and an API</a><br>
 <a href="https://hackernoon.com/lets-build-a-web-app-with-vue-chart-js-and-an-api-part-ii-39781b1d5acf" target="_blank">Let’s Build a Web App with Vue, Chart.js and an API-2</a>
 
 ## Build Setup
