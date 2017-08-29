@@ -1,7 +1,7 @@
 # npm package's download statistics 
 
 > A simple Vue.js project which displays a graph for download statistics of an npm package.<br>
->Demo <a href="https://mjprinso.github.io/vue-npm"> here </a>
+> Demo <a href="https://mjprinso.github.io/vue-npm"> here </a>
 
 
 <p align="center">
