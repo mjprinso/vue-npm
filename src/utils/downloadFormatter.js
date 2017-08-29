@@ -17,7 +17,9 @@ export const groupData = (data, transformer) => {
     .map(element => element.downloads)
 }
 
-export function removeDuplicate (data) {
-  data = new Set(data)
-  return Array.from(data)
+export function removeDuplicate (a, b) {
+  if (a.indexOf(b) < 0) {
+    a.push(b)
+  }
+  return a
 }

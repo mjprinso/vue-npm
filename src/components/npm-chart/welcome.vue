@@ -90,8 +90,6 @@ export default {
         this.downloads = response.data.downloads.map(download => download.downloads)
         this.labels = response.data.downloads.map(download => download.day)
         this.packageName = response.data.package
-        console.log(response.data)
-        console.log(response.data.start + ' ' + response.data.end)
         this.periodStart = response.data.start
         this.periodEnd = response.data.end
         this.loaded = true
