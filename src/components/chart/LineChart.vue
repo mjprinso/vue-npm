@@ -52,6 +52,7 @@ export default Line.extend({
           data: this.chartData
         }
       ]
+      // options: this.options
     }, this.options)
   }
 })
